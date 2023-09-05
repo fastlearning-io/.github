@@ -18,12 +18,13 @@ fastlearning has become much more than just an LMS platform. Our mission is to e
 
 At fastlearning, we are committed to providing equitable access to online education and enhancing the learning experience of all users. We aim to contribute to the future of education, where technology and online collaboration are powerful tools for learning and teaching. 
 
-Join us on this exciting educational journey and help us make online education an exceptional experience. Welcome to fastlearning!
+Join us on this exciting educational journey and help us make online education an exceptional experience.
 
+## Welcome to fastlearning!
 
 You can support us with sponsorships or by buying one of our [paid products](https://simplemap.io).
 
-## You can support us with crypto donations throw ETH Network
+Support us with crypto donations throw ETH Network
 
 ```"
 0x95d34596dB5A2f65f2a92B97955BF7920Fd1c9e3
